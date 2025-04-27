@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+e_commerce_bot.egg-info
 # C extensions
 *.so
 
